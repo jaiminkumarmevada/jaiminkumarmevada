@@ -21,7 +21,7 @@ Here are some of my projects:
 ## More About Me
 - 🌱 I’m currently learning more about backend development and Python.
 - 💬 Ask me about anything related to web development.
-- 📫 How to reach me: Your Email
+- 📫 How to reach me: jaiminkumarmevada@gmail.com
 - ⚡ Fun fact: I love coding and solving complex problems.
 
 ## Connect with Me
