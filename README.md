@@ -1,13 +1,6 @@
 
 # Hi there, I'm Jaimin Mevada! 👋
 
-```svg
-<svg width="100%" height="150" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="#b070d9"/>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="24" fill="#ffffff">Frontend Developer | React Enthusiast</text>
-</svg>
-```
-
 ## About Me
 
 - 🎓 **Education:** Pursuing a degree at Sankalchand Patel College of Engineering, North Gujarat.
