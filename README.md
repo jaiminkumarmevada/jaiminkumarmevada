@@ -55,7 +55,6 @@ My personal portfolio website, showcasing my projects, skills, and experience, a
 
 - 📧 Email: jaiminkumarmevada@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jaimin-mevada)
-- 🌐 [Portfolio](#) (Link to your portfolio)
 
 ---
 
