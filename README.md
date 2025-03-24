@@ -1,53 +1,36 @@
-
 # Hi there, I'm Jaimin Mevada! 👋
 
 ## About Me
 
 - 🎓 **Education:** Pursuing a degree at Sankalchand Patel College of Engineering, North Gujarat.
-- 💻 **Specialization:** Frontend Development with React and API Integration.
+- 💻 **Specialization:** Backend Development with .NET and Database Management.
 - 🛠 **Technical Skills:**
-  - **JavaScript**
-  - **React (Advanced)**
-  - **Redux**
-  - **React Router DOM**
-  - **RESTful APIs**
-  - **Node.js (Basic)**
+  - **C | C++ | C#**
+  - **.NET Framework**
+  - **SQL Server**
+  - **OOP | SOLID Principles**
+  - **Software Design Patterns**
+  - **HTML | CSS | Bootstrap (Basic)**
 
 ### 🎖️ **Certification:**
-- **Infosys React Certification** - Successfully completed an intensive course on React, further solidifying my expertise in developing dynamic web applications.
+- **Infosys React Certification** - Successfully completed an intensive course on React before transitioning to .NET for backend development.
 
 ---
 
-## 🚀 Projects
-
-Here are some of the projects I've worked on:
-
-### 🌐 **Live News App**
-A real-time news application that fetches and displays news from various sources using RESTful APIs.
-
-### 📊 **BMI Calculator**
-A user-friendly tool built with React to calculate and monitor Body Mass Index.
-
-### ☁️ **Weather App**
-A responsive weather application that integrates API data to provide up-to-date weather information.
-
-### 📝 **Registration System**
-A simple yet effective system for user registration, including form validation and user authentication.
-
 ### 💼 **Portfolio**
-My personal portfolio website, showcasing my projects, skills, and experience, all built with React.
+A personal portfolio website showcasing my projects, skills, and experience, built using **HTML, CSS, and Bootstrap**.
 
 ---
 
 ## 🌱 **Current Learning**
 
-- Expanding my knowledge in **backend development** and exploring **Python** to complement my frontend skills.
+- Expanding my expertise in **ASP.NET Core, MVC, and Web API development** to build scalable applications.
 
 ---
 
 ## 💬 **Ask Me About**
 
-- Anything related to **Web Development**, especially **React**, **JavaScript**, and API Integration.
+- Anything related to **Backend Development**, especially **.NET, C#, SQL Server, and Software Design Patterns**.
 
 ---
 
@@ -72,15 +55,14 @@ My personal portfolio website, showcasing my projects, skills, and experience, a
 
 ## 🛡️ **Badges**
 
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?style=for-the-badge&logo=javascript)
-![React Badge](https://img.shields.io/badge/React-Advanced-blue?style=for-the-badge&logo=react)
-![Redux Badge](https://img.shields.io/badge/Redux-State%20Management-blueviolet?style=for-the-badge&logo=redux)
-![Node.js Badge](https://img.shields.io/badge/Node.js-Basic-green?style=for-the-badge&logo=node.js)
-![RESTful APIs Badge](https://img.shields.io/badge/RESTful%20APIs-Integration-orange?style=for-the-badge&logo=api)
+![C# Badge](https://img.shields.io/badge/C%23-.NET-blue?style=for-the-badge&logo=c-sharp)
+![.NET Badge](https://img.shields.io/badge/.NET-Framework-purple?style=for-the-badge&logo=dotnet)
+![SQL Server Badge](https://img.shields.io/badge/SQL%20Server-Database-red?style=for-the-badge&logo=microsoft-sql-server)
+![OOP Badge](https://img.shields.io/badge/OOP-SOLID-green?style=for-the-badge&logo=code)
+![Software Design Patterns Badge](https://img.shields.io/badge/Design%20Patterns-Best%20Practices-orange?style=for-the-badge&logo=code)
 
 ---
 
 ## 👀 **Visitor Count**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=jaiminkumarmevada&color=brightgreen)
-
