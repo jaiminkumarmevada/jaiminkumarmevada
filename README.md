@@ -47,15 +47,6 @@ Aspiring **.NET Developer** passionate about backend development, APIs, and full
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiminkumarmevada&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiminkumarmevada&layout=compact&theme=radical" width="48%"/>
-</p>
-
----
-
 ## 🛡️ Tools & Badges
 
 ![C#](https://img.shields.io/badge/C%23-.NET-blue?style=for-the-badge&logo=c-sharp)
