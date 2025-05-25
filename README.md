@@ -14,7 +14,7 @@ Aspiring **.NET Developer** passionate about backend development, APIs, and full
 - **Frameworks:** .NET Framework, ASP.NET MVC, Web API (in progress)  
 - **Frontend:** HTML, CSS, Bootstrap, React (basics)  
 - **Database:** SQL Server  
-- **Concepts:** OOP,, 3‑Tier Architecture
+- **Concepts:** OOP, 3‑Tier Architecture
 
 ---
 
