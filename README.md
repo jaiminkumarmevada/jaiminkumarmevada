@@ -20,7 +20,7 @@ Aspiring **.NET Developer** passionate about backend development, APIs, and full
 
 ## 🎓 Education & Learning
 
-- 🎓 Final year B.Tech IT student — Sankalchand Patel College of Engineering  
+- 🎓 Recently in May 2025 B.Tech IT student — Sankalchand Patel College of Engineering  
 - 📚 Learning Web API CRUD using **GET, POST, PUT, DELETE**  
 - 📌 Exploring Angular next after React basics
 
@@ -42,7 +42,7 @@ Aspiring **.NET Developer** passionate about backend development, APIs, and full
 
 ## 📬 Contact Me
 
-- 📧 Email: [jaiminkumarmevada@gmail.com](mailto:jaiminkumarmevada@gmail.com)  
+- 📧 Email: [jaiminmevada.it@gmail.com](mailto:jaiminmevada.it@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jaimin-mevada)
 
 ---
