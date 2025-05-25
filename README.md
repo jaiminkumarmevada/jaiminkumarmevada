@@ -20,7 +20,7 @@ Aspiring **.NET Developer** passionate about backend development, APIs, and full
 
 ## 🎓 Education & Learning
 
-- 🎓 Recently in May 2025 B.Tech IT student — Sankalchand Patel College of Engineering  
+- 🎓  Graduated in May 2025 with a B.Tech in Information Technology from Sankalchand Patel College of Engineering, Gujarat.
 - 📚 Learning Web API CRUD using **GET, POST, PUT, DELETE**  
 - 📌 Exploring Angular next after React basics
 
