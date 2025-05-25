@@ -52,7 +52,6 @@ Aspiring **.NET Developer** passionate about backend development, APIs, and full
 ![C#](https://img.shields.io/badge/C%23-.NET-blue?style=for-the-badge&logo=c-sharp)
 ![.NET](https://img.shields.io/badge/.NET-Framework-purple?style=for-the-badge&logo=dotnet)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red?style=for-the-badge&logo=microsoft-sql-server)
-![REST API](https://img.shields.io/badge/Web%20API-RESTful-lightgrey?style=for-the-badge&logo=swagger)
 ![OOP](https://img.shields.io/badge/OOP-SOLID-green?style=for-the-badge&logo=code)
 ![React](https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react)
 
